@@ -6,7 +6,5 @@
         public string CityName { get; set; } = "";
         public string CountryName { get; set; } = "";
         public string FlagId { get; set; } = "";
-        //public string SecondCityName { get; set; } = "";
-        //public string SecondFlagId { get; set; } = "";
     }
 }
